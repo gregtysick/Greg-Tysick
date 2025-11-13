@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Greg-Tyisck/Greg-Tyisck/main/Greg-Tysick-light-square.png" width="180" />
+  <img src="https://raw.githubusercontent.com/Greg-Tyisck/Greg-Tysick/blob/main/Greg.Tysick.logo.png" width="180" />
 </p>
 
 # 👋 Hi, I'm Greg Tysick  
